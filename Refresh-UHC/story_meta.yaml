@@ -1,0 +1,76 @@
+"i": 24551
+"d": 1519124111395
+"u": 1740026403522
+"c": "118366894590837035982"
+"n": "Sburb: Refresh"
+"r": |-
+  It's September 25th, 2024. A long awaited game is finally about to be released. That game is Sburb. 
+
+  Follow 6 friends as they make their way through this life-changing game, on an adventure filled with comedy, action and heartache. 
+"h": 3
+"t":
+- "sburb"
+- "refresh"
+- "original"
+- "fankids"
+- "fanspecies"
+- "disturbing"
+- "gore"
+- "dark"
+"a": "iSmile02"
+"w": ""
+"o": "assets://mspfa/Sburb- Refresh/img/thumbnail.gif"
+"q": ""
+"x": "https://file.garden/W8aioswzE0BjIquL/banners/banner_final.gif"
+"b": 1
+"m": ">"
+"editors":
+- "i": "118366894590837035982"
+  "d": 1514368156423
+  "n": "iSmile02"
+  "v": 1
+  "h": 0
+  "w": ""
+  "r": |-
+    Yo. I'm iSmile02.
+    I'm the guy that made Sburb: Refresh and Sburb Done Quick. 
+
+    I'm currently working on:
+    World Builders
+    Sburb: Refresh (Remaking Act 1)
+
+    Thanks for stoppin' by.
+  "o": "https://file.garden/W8aioswzE0BjIquL/profilepic3.png"
+  "g":
+    "14456": 794
+    "21688": 326
+  "a": 287
+  "s":
+    "t": 0
+    "p": 0
+    "k":
+      "p": 37
+      "n": 39
+      "s": 32
+    "s": 42
+    "a4": true
+    "a3": true
+  "u": 1756352236291
+"whole_css": |-
+  .p430 #content img.major {
+      max-width: 950px;
+      margin-left: -175px;
+  }
+
+  .p430 #content {
+      width: 600px;
+  }
+
+  .p331 #content img.major {
+      max-width: 9999px;
+      margin-left: -175px;
+  }
+
+  .p331 #content {
+      width: 600px;
+  }
